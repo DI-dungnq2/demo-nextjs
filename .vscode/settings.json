@@ -2,5 +2,7 @@
     "appService.zipIgnorePattern": [
         "node_modules{,/**}",
         ".vscode{,/**}"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/c74699ac-46ea-4692-848e-17efa7510444/resourceGroups/my-app-demo/providers/Microsoft.Web/sites/nextjs-demo-app",
+    "appService.deploySubpath": "."
 }
