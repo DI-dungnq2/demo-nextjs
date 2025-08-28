@@ -61,5 +61,5 @@ jobs:
         with:
           app-name: 'nextjs-demo-app'
           slot-name: 'Production'
-          package: .
+          package: ./out
           
